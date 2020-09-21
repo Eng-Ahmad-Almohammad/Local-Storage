@@ -41,8 +41,7 @@
 ###  if (!e) { e = window.event; }
 ### }
 ### At this point, the variable e will be a StorageEvent object, which has the following useful properties.
-![storeg](https://user-images.githubusercontent.com/70091044/93808076-32ebfb80-fc54-11ea-8ff9-1743f.PNG)
-
+![storeg](https://user-images.githubusercontent.com/70091044/93810408-49478680-fc57-11ea-8586-00800e5c5f24.PNG)
 ## HTML5 STORAGE IN ACTION
 ### Let’s see HTML5 Storage in action. Recall the Halma game. There’s a small problem with the game: if you close the browser window mid-game, you’ll lose your progress. But with HTML5 Storage, we can save the progress locally, within the browser itself. Here is a live demonstration. Make a few moves, then close the browser tab, then re-open it. If your browser supports HTML5 Storage, the demonstration page should magically remember your exact position within the game, including the number of moves you’ve made, the position of each of the pieces on the board, and even whether a particular piece is selected.
 
