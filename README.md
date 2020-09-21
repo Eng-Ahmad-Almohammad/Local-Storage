@@ -6,8 +6,7 @@
 
 ### Which browsers? Well, the latest version of pretty much every browser supports HTML5 Storage… even Internet Explorer!
 ### From your JavaScript code, you’ll access HTML5 Storage through the localStorage object on the global window object. Before you can use it, you should detect whether the browser supports it.
-![storeg](https://user-images.githubusercontent.com/70091044/93808076-32ebfb80-fc54-11ea-8ff9-1743
-65626a1f.PNG)
+![storeg](https://user-images.githubusercontent.com/70091044/93810408-49478680-fc57-11ea-8586-00800e5c5f24.PNG)
 
 ### Instead of writing this function yourself, you can use Modernizr to detect support for HTML5 Storage.
 
